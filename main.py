@@ -8,3 +8,8 @@ def calc(a, b):
 def hello(name):
     print(f"Hello{name} ")
 
+
+def summ(a,b):
+    print(a + b)
+   
+
